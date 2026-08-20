@@ -29,7 +29,7 @@ A secure password generator that creates random passwords using letters and digi
 
 **Key Concepts:** random module, string module, Randomization Logic, String Manipulation
 
-[View Project →](./Random-Password-Generator/README.md)
+[View Project →](./Random-Password-Generator)
 
 ---
 
