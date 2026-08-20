@@ -33,6 +33,15 @@ A secure password generator that creates random passwords using letters and digi
 
 ---
 
+### 🧠 General Knowledge Quiz
+A command-line quiz game that asks general knowledge questions, tracks score, and handles messy user input using string sanitization.
+
+**Key Concepts:** Control Flow, String Methods (.strip(), .lower()), Accumulator Pattern, f-strings
+
+[View Project →](./Quiz-Game)
+
+---
+
 ## 🛠️ Technologies Used
 - Python 3
 
@@ -54,6 +63,10 @@ DecodeLabs-Python-Projects/
 │   ├── password_generator.py
 │   └── README.md
 │
+├── Quiz-Game/
+│   ├── quiz_game.py
+│   └── README.md
+│
 └── README.md
 ```
 
@@ -64,6 +77,7 @@ DecodeLabs-Python-Projects/
 - Conditional Statements & Loops
 - Lists & Accumulator Patterns
 - Exception Handling
+- String Sanitization & Manipulation
 - Python Built-in Modules (random, string)
 - Clean, Organized Code Structure
 
