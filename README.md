@@ -49,13 +49,14 @@ A command-line quiz game that asks general knowledge questions, tracks score, an
 
 ## 📁 Repository Structure
 
+```text
 DecodeLabs-Python-Projects/
 ├── To-Do-List/
-│   ├── todo_list.py
+│   ├── To do list.py
 │   └── README.md
 │
 ├── Expense-Tracker/
-│   ├── expense_tracker.py
+│   ├── Expense Tracker.py
 │   └── README.md
 │
 ├── Random-Password-Generator/
@@ -63,11 +64,10 @@ DecodeLabs-Python-Projects/
 │   └── README.md
 │
 ├── Quiz-Game/
-│   ├── quiz_game.py
+│   ├── Quiz Game.py
 │   └── README.md
 │
 └── README.md
-
 ---
 
 ## 🎯 Skills Demonstrated
