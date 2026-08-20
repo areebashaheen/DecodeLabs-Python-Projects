@@ -29,7 +29,7 @@ A secure password generator that creates random passwords using letters and digi
 
 **Key Concepts:** random module, string module, Randomization Logic, String Manipulation
 
-[View Project →](./Password-Generator)
+[View Project →](./Random-Password-Generator/README.md)
 
 ---
 
@@ -48,7 +48,6 @@ A command-line quiz game that asks general knowledge questions, tracks score, an
 ---
 
 ## 📁 Repository Structure
-```
 
 DecodeLabs-Python-Projects/
 ├── To-Do-List/
@@ -59,8 +58,8 @@ DecodeLabs-Python-Projects/
 │   ├── expense_tracker.py
 │   └── README.md
 │
-├── Password-Generator/
-│   ├── password_generator.py
+├── Random-Password-Generator/
+│   ├── Random Password Generator.py
 │   └── README.md
 │
 ├── Quiz-Game/
@@ -68,12 +67,11 @@ DecodeLabs-Python-Projects/
 │   └── README.md
 │
 └── README.md
-```
 
 ---
 
 ## 🎯 Skills Demonstrated
-- Python Fundamentals (Variables, Data Types, User Input)
+Python Fundamentals (Variables, Data Types, User Input)
 - Conditional Statements & Loops
 - Lists & Accumulator Patterns
 - Exception Handling
