@@ -29,7 +29,7 @@ A secure password generator that creates random passwords using letters and digi
 
 **Key Concepts:** random module, string module, Randomization Logic, String Manipulation
 
-[View Project →](./Password%20Generator)
+[View Project →](./Random-Password-Generator)
 
 ---
 
@@ -38,7 +38,7 @@ A command-line quiz game that asks general knowledge questions, tracks score, an
 
 **Key Concepts:** Control Flow, String Methods (.strip(), .lower()), Accumulator Pattern, f-strings
 
-[View Project →](./Quiz-Game)
+[View Project →](./Quiz Game)
 
 ---
 
